@@ -51,14 +51,24 @@ class ParsePlayPage extends React.PureComponent {
             source.playSourceUrl = onclick.slice(8, onclick.lastIndexOf('\''));
             playChannelSource.push(source)
         });
-        const jujis = [];
+        const theJujis = [];
         //可能有多个播放源 iqiyi youku 等
         let jujiSerial=$('.num-tab-main');
         jujiSerial.each((index,item)=>{
-            let juji
+            let jujiList=$(item).find('a');
+            theJujis.push({index:this.getTheJujiLists(jujiList,$)});
         });
-        let jujiHtmlList = $('.num-tab-main').find('a');
-        jujiHtmlList.each((index, item) => {
+
+
+        this.setState({
+            playChannelSource: playChannelSource,
+            jujis: theJujis.length==0?videourlgo:theJujis
+        });
+
+    }
+    getTheJujiLists(jujiList,$){
+        let jujis=[];
+        jujiList.each((index, item) => {
             let juji = {
                 id: '',
                 onclick: ''
@@ -68,14 +78,8 @@ class ParsePlayPage extends React.PureComponent {
             jujis.push(juji)
 
         });
-
-        this.setState({
-            playChannelSource: playChannelSource,
-            jujis: jujis
-        });
-
+        return jujis;
     }
-
     parseUrl(url) {
 
         axios.get(url).then(
@@ -118,14 +122,27 @@ class ParsePlayPage extends React.PureComponent {
                     )}
                 />
                 <Text>剧集：</Text>
-                <GridView
-                    itemDimension={60}
-                    items={jujis}
-                    style={styles.gridView}
-                    renderItem={renderItem}
-                />
+                {this.getJujiDetail(jujis,renderItem)}
             </View>
             )
+
+    }
+    getJujiDetail(jujis,renderItem){
+        let theGridView={};
+        jujis.map((a,i)=>{
+            console.log(a.index)
+            return(
+                <View>
+                <Text>{i}</Text>
+                <GridView itemDimension={60}
+            items={Array.from(a.index)}
+            style={styles.gridView}
+            renderItem={renderItem}
+            />
+                </View>
+                )
+
+        })
 
     }
     render() {
