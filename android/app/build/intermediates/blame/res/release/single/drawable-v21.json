@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\jie\\.android\\build-cache\\37e86a730892a49a24b2660772d2e8181e48bdc4\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

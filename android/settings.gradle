@@ -1,0 +1,5 @@
+rootProject.name = 'myCinema'
+include ':react-native-android-fullscreen-webview-video'
+project(':react-native-android-fullscreen-webview-video').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-android-fullscreen-webview-video/android')
+
+include ':app'

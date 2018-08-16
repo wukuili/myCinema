@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\jie\\.android\\build-cache\\37e86a730892a49a24b2660772d2e8181e48bdc4\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\jie\\.android\\build-cache\\37e86a730892a49a24b2660772d2e8181e48bdc4\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\jie\\.android\\build-cache\\37e86a730892a49a24b2660772d2e8181e48bdc4\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\jie\\.android\\build-cache\\37e86a730892a49a24b2660772d2e8181e48bdc4\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
