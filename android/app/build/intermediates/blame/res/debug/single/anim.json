@@ -1,7 +1,7 @@
 [
     {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_slide_down.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eda8b11e67b901b173e3c2539fc117064f268c78\\output\\res\\anim\\catalyst_slide_down.xml"
+        "source": "C:\\Users\\liyon\\.android\\build-cache\\a9fde439b5c7d7ce99946c6f7b5c7b5f50179ab5\\output\\res\\anim\\catalyst_slide_down.xml"
     },
     {
         "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_fade_out.xml",
@@ -17,7 +17,7 @@
     },
     {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_fade_in.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eda8b11e67b901b173e3c2539fc117064f268c78\\output\\res\\anim\\catalyst_fade_in.xml"
+        "source": "C:\\Users\\liyon\\.android\\build-cache\\a9fde439b5c7d7ce99946c6f7b5c7b5f50179ab5\\output\\res\\anim\\catalyst_fade_in.xml"
     },
     {
         "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
@@ -28,12 +28,12 @@
         "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\anim\\tooltip_enter.xml"
     },
     {
-        "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\liyon\\.android\\build-cache\\a2357187867ee45189e311af0626808ee853cd90\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\liyon\\.android\\build-cache\\a2357187867ee45189e311af0626808ee853cd90\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_out.xml",
@@ -45,7 +45,7 @@
     },
     {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\anim\\abc_slide_out_top.xml"
+        "source": "C:\\Users\\liyon\\.android\\build-cache\\a2357187867ee45189e311af0626808ee853cd90\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
         "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
@@ -61,19 +61,19 @@
     },
     {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "source": "C:\\Users\\liyon\\.android\\build-cache\\a2357187867ee45189e311af0626808ee853cd90\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "source": "C:\\Users\\liyon\\.android\\build-cache\\a2357187867ee45189e311af0626808ee853cd90\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\anim\\abc_slide_in_top.xml"
+        "source": "C:\\Users\\liyon\\.android\\build-cache\\a2357187867ee45189e311af0626808ee853cd90\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "source": "C:\\Users\\liyon\\.android\\build-cache\\a2357187867ee45189e311af0626808ee853cd90\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_slide_up.xml",
@@ -85,19 +85,19 @@
     },
     {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_fade_out.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eda8b11e67b901b173e3c2539fc117064f268c78\\output\\res\\anim\\catalyst_fade_out.xml"
+        "source": "C:\\Users\\liyon\\.android\\build-cache\\a9fde439b5c7d7ce99946c6f7b5c7b5f50179ab5\\output\\res\\anim\\catalyst_fade_out.xml"
     },
     {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_slide_up.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eda8b11e67b901b173e3c2539fc117064f268c78\\output\\res\\anim\\catalyst_slide_up.xml"
+        "source": "C:\\Users\\liyon\\.android\\build-cache\\a9fde439b5c7d7ce99946c6f7b5c7b5f50179ab5\\output\\res\\anim\\catalyst_slide_up.xml"
     },
     {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\anim\\tooltip_exit.xml"
+        "source": "C:\\Users\\liyon\\.android\\build-cache\\a2357187867ee45189e311af0626808ee853cd90\\output\\res\\anim\\tooltip_exit.xml"
     },
     {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\anim\\abc_fade_in.xml"
+        "source": "C:\\Users\\liyon\\.android\\build-cache\\a2357187867ee45189e311af0626808ee853cd90\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
         "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
@@ -113,15 +113,15 @@
     },
     {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_in.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eda8b11e67b901b173e3c2539fc117064f268c78\\output\\res\\anim\\catalyst_push_up_in.xml"
+        "source": "C:\\Users\\liyon\\.android\\build-cache\\a9fde439b5c7d7ce99946c6f7b5c7b5f50179ab5\\output\\res\\anim\\catalyst_push_up_in.xml"
     },
     {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\anim\\abc_popup_exit.xml"
+        "source": "C:\\Users\\liyon\\.android\\build-cache\\a2357187867ee45189e311af0626808ee853cd90\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_out.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\eda8b11e67b901b173e3c2539fc117064f268c78\\output\\res\\anim\\catalyst_push_up_out.xml"
+        "source": "C:\\Users\\liyon\\.android\\build-cache\\a9fde439b5c7d7ce99946c6f7b5c7b5f50179ab5\\output\\res\\anim\\catalyst_push_up_out.xml"
     },
     {
         "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
@@ -129,7 +129,7 @@
     },
     {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\anim\\tooltip_enter.xml"
+        "source": "C:\\Users\\liyon\\.android\\build-cache\\a2357187867ee45189e311af0626808ee853cd90\\output\\res\\anim\\tooltip_enter.xml"
     },
     {
         "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\catalyst_push_up_in.xml",
@@ -141,6 +141,6 @@
     },
     {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\anim\\abc_popup_enter.xml"
+        "source": "C:\\Users\\liyon\\.android\\build-cache\\a2357187867ee45189e311af0626808ee853cd90\\output\\res\\anim\\abc_popup_enter.xml"
     }
 ]

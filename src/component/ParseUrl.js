@@ -6,12 +6,18 @@ import GridView from 'react-native-super-grid';
 import SingleMovie from "./SingleMovie";
 import * as ConsTants from "../constents/Constonts";
 class ParseUrl extends React.Component{
-    state={showList:[]};
+    state={
+        showList:[],
+        totalPage:1,//总页数
+        currPage:0,//当前页
+        pages:[{index:1,url:this.props.url}]//页码信息
+    };
     parseHtml(html){
         const $=Cheerio.load(html);
-        let body=$('.g-clear').find('li');
+        let {totalPage,currPage,pages}=this.state;
+        let list=$('.g-clear').find('li');
         const datas=[];
-        body.each((index,item)=>{
+        list.each((index,item)=>{
             const dramaItem={
                 title:'',//名称
                 latest: '',//最新剧集
@@ -35,9 +41,24 @@ class ParseUrl extends React.Component{
 
 
         });
-        this.setState({
-            showList:datas
+        //解析页码
+        let page=$('.paging').find('a');
+        page.each(item=>{
+            pages.push({
+                index:$(item).text(),
+                url:HOST_URL+$(item).attr('href')
+            })
         })
+        totalPage=$(page).eq(-2).text();
+        currPage=$(page).filter('.current').text();
+        console.log(currPage+'-=-='+totalPage);
+
+        this.setState({
+            showList:datas,
+            totalPage:totalPage,
+            currPage:currPage,
+            pages:
+        });
     }
     parseUrl(url){
 

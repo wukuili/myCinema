@@ -11,13 +11,15 @@ class ParsePlayPage extends React.PureComponent {
     static navigationOptions = {
         title: '详情',
     };
+
     state = {
         jujis: [],
         playChannelSource: [],
         isLoading: true,
         playUrl:'',
         selectChannel:'',
-        selectJuji:''
+        selectJuji:'',
+
     };
 
     componentWillMount() {
@@ -34,6 +36,7 @@ class ParsePlayPage extends React.PureComponent {
 
     parseHtml(html) {
         const $ = Cheerio.load(html);
+
         let body = $('.am-panel-default');
         let videourls = body.find('#video').attr('src');
         let videourlgo = body.find('#videourlgo').attr('href');
@@ -58,6 +61,7 @@ class ParsePlayPage extends React.PureComponent {
             let jujiList=$(item).find('a');
             theJujis.push({index:this.getTheJujiLists(jujiList,$)});
         });
+
 
 
         this.setState({
@@ -129,11 +133,11 @@ class ParsePlayPage extends React.PureComponent {
     }
     getJujiDetail(jujis,renderItem){
         let theGridView={};
-        jujis.map((a,i)=>{
+       return jujis.map((a,i)=>{
             console.log(a.index)
             return(
-                <View>
-                <Text>{i}</Text>
+                <View style={{flex:1}}>
+                <Text>源{i+1}</Text>
                 <GridView itemDimension={60}
             items={Array.from(a.index)}
             style={styles.gridView}

@@ -1,4 +1,4 @@
-#Thu Aug 16 15:42:55 CST 2018
-base.0=D\:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Sun Aug 19 23:38:25 CST 2018
+base.0=E\:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.0=D\:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=E\:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
