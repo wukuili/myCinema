@@ -6,5 +6,9 @@
     {
         "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
         "source": "C:\\Users\\jie\\.android\\build-cache\\37e86a730892a49a24b2660772d2e8181e48bdc4\\output\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\code\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\taiji\\.android\\build-cache\\57dd5906e9e452f2eebe6b753f2ef59e250ad974\\output\\res\\layout-v16\\notification_template_custom_big.xml"
     }
 ]

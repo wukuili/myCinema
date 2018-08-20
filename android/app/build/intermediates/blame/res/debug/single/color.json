@@ -4,12 +4,140 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
+        "merged": "D:\\code\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\taiji\\.android\\build-cache\\6ad1f457b3872d767ae2ba04a494963de4f670da\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
         "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
         "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\code\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\taiji\\.android\\build-cache\\6ad1f457b3872d767ae2ba04a494963de4f670da\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\code\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\taiji\\.android\\build-cache\\6ad1f457b3872d767ae2ba04a494963de4f670da\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\code\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\taiji\\.android\\build-cache\\6ad1f457b3872d767ae2ba04a494963de4f670da\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\code\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\taiji\\.android\\build-cache\\6ad1f457b3872d767ae2ba04a494963de4f670da\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "D:\\code\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\taiji\\.android\\build-cache\\6ad1f457b3872d767ae2ba04a494963de4f670da\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\code\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\taiji\\.android\\build-cache\\6ad1f457b3872d767ae2ba04a494963de4f670da\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\code\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\taiji\\.android\\build-cache\\6ad1f457b3872d767ae2ba04a494963de4f670da\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\code\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\taiji\\.android\\build-cache\\6ad1f457b3872d767ae2ba04a494963de4f670da\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "D:\\code\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\taiji\\.android\\build-cache\\6ad1f457b3872d767ae2ba04a494963de4f670da\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\code\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\taiji\\.android\\build-cache\\6ad1f457b3872d767ae2ba04a494963de4f670da\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\code\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\taiji\\.android\\build-cache\\6ad1f457b3872d767ae2ba04a494963de4f670da\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\code\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\taiji\\.android\\build-cache\\6ad1f457b3872d767ae2ba04a494963de4f670da\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\code\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\taiji\\.android\\build-cache\\6ad1f457b3872d767ae2ba04a494963de4f670da\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\code\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\taiji\\.android\\build-cache\\6ad1f457b3872d767ae2ba04a494963de4f670da\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
@@ -20,16 +148,12 @@
         "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "merged": "D:\\code\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\taiji\\.android\\build-cache\\6ad1f457b3872d767ae2ba04a494963de4f670da\\output\\res\\color\\abc_tint_default.xml"
     },
     {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
-    },
-    {
-        "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
@@ -44,16 +168,12 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
         "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
         "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\code\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\taiji\\.android\\build-cache\\6ad1f457b3872d767ae2ba04a494963de4f670da\\output\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
@@ -64,60 +184,28 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\abc_tint_btn_checkable.xml"
-    },
-    {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_tint_edittext.xml"
-    },
-    {
-        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_search_url_text.xml"
-    },
-    {
-        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_tint_spinner.xml"
     },
     {
         "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
         "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_hint_foreground_material_light.xml"
-    },
-    {
-        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_tint_seek_thumb.xml"
+        "merged": "D:\\code\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\taiji\\.android\\build-cache\\6ad1f457b3872d767ae2ba04a494963de4f670da\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "merged": "D:\\code\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\taiji\\.android\\build-cache\\6ad1f457b3872d767ae2ba04a494963de4f670da\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
         "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
         "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
@@ -128,16 +216,8 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\abc_tint_default.xml"
-    },
-    {
         "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\abc_tint_edittext.xml"
-    },
-    {
-        "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
@@ -146,9 +226,5 @@
     {
         "merged": "D:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
         "source": "C:\\Users\\jie\\.android\\build-cache\\2ca16671a328d982f66383dd1bee435ee4f69d32\\output\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "E:\\code_test\\reactnative\\myCinema\\android\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\6ea64b8a76dbd347a3a17d122a47bf0666842bad\\output\\res\\color\\abc_tint_spinner.xml"
     }
 ]

@@ -3,30 +3,282 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\jie\.android\build-cache\17ac1b2c41540b94e75b17d0182754a7977fc7b8\output\jars\libs\infer-annotations-4.0.jar"
+        jar="C:\Users\taiji\.android\build-cache\a43278392d6a34c081fc2776606d275279b0a0c1\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
-        <dex dex="D:\code_test\reactnative\myCinema\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_d498a89c6b3ee5f921f2c221066b38da5f024fa3.jar" />
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\classes_71bc4b0dc9db5f5cd0a205d4226dec8f78854037.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\code_test\reactnative\myCinema\node_modules\react-native-android-fullscreen-webview-video\android\build\intermediates\bundles\default\classes.jar"
+        jar="C:\Users\taiji\.android\build-cache\6ad1f457b3872d767ae2ba04a494963de4f670da\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
-        sha1="0def4a91204b955ff9194b9cafc3e11fe3303ad3">
-        <dex dex="D:\code_test\reactnative\myCinema\android\app\build\intermediates\pre-dexed\debug\classes_22296d822af8268828dc97429c14279e5b200147.jar" />
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\classes_d74caf8ada828e0ee811dbdbf55f25dd65720ecf.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\jie\.android\build-cache\17ac1b2c41540b94e75b17d0182754a7977fc7b8\output\jars\classes.jar"
+        jar="C:\Users\taiji\.android\build-cache\eb0d81f7f6674db4cae4b06340559f9b7c41984e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\classes_8dc0ad359bc5ab17488c52ceecdc5b52026fa6fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.android\build-cache\9c73560bedcd58351fc9ec2f51d591c2245ba8b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\classes_ec14e921d72b3cfa9f417a4b6a74d799439d08b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.android\build-cache\64727d6c55b421273acea4c231751668ddc992b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\classes_8863422fc12ec87316bde669ea98a46db44d7e02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.android\build-cache\3430df2176beac81ddcda58ee61d8b5be9ac4227\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\classes_a2830146af1d9cc3ac5521fe431f122be55370a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.android\build-cache\5ef283f7991d81e58db12da0970afffcb5527cda\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\classes_aaeb6f6947c95034db4fc92157d945e46fcea8ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.android\build-cache\f28fe77fbb8ed12d1ee9cdab4016b87aa4912b98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\classes_481ebe769ed3eebc339c41f1eb7a4f2b15bd9ddb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_cfc4f11018a87bbfe48341a9979b6642ee704dae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.android\build-cache\57dd5906e9e452f2eebe6b753f2ef59e250ad974\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\classes_ab575d63e1a69082b0525a9006c0eee9feb0255a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\code\myCinema\node_modules\react-native-android-fullscreen-webview-video\android\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b17140fef715e72257db4a3eee2bf2952e0e6706">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\classes_43f8275cb3f57bc6205bf174def740997718a02f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.android\build-cache\5e1f2c172291410cd4564b36bdd38e3620436e84\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\classes_4de3b1809594eb3ebd4fd38a1b4d6cbf0539d8ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_94c6e3de36ff4332220bb8cf0a065a4f38eb129c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.android\build-cache\029c58a94c26e380a7004bb2457632bd25c81ee1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\classes_e41d5ac42e34f25dc0dab746e09db715125def8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.android\build-cache\6a4961957b9334800b489135d77cca9bafa8e47c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\classes_0c5136262292dc812e5c6cac1c33566ea9cebec5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.android\build-cache\43cf8ca2c985e28544cfd90e5b2047764863cce8\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.3"
         sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
-        <dex dex="D:\code_test\reactnative\myCinema\android\app\build\intermediates\pre-dexed\debug\classes_0baf3ad05731545eb9700204ad325d9526242b53.jar" />
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\classes_023ee7187a270270765cdad04f636a1058bccdba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.android\build-cache\17059a1c30f14821ca776d0f22b4cbb3fe766556\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\classes_bb0490921e73cb25fd1cde7dc308b8e0f032a12e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_3b2b615f3e09be1c7e740dcb239073b40d712589.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.android\build-cache\ee3a6c758b714b0b111dc57f9c106e56c5e78919\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\classes_35770493d284517cdd373bd411db556caaf8e43c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_7aa2038c0069e75f8cbfe5d2f5df04ff152ab59a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_b2abbd13d82699a4234de7223d5af96074a58fd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.android\build-cache\43cf8ca2c985e28544cfd90e5b2047764863cce8\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_0ab77a401739a123a898f469db2f4c2b7ae15eff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_b5b36ac6485ad7b9f38301166012abb7ec1e3e06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.android\build-cache\d41ec7b6317214d4d466b70d004514afaa30292e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\classes_d328ab59c2bb278c8de97ea52e266047fabd08a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\common-1.0.0_8380dc95451f68b01a97c5550566ceb30169fc52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.android\build-cache\b4866766e02d325d0cabe8defb6bd90a15b00d7e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\classes_e0cc8818897cb1740303ba017e7546413dd40ec8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_c1fb88b3620834629c2b13d6950850ab89bc96d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_34bbe5660c1a9c338fbb1e1a22dfa6e7cd30287e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_c9193d769b9d700a02bcca47355a0e0e46dec648.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.android\build-cache\829018d0fd65e62927678972e9abc179f879732e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\classes_0d1da2b4fca30892f0f0e386e579c836501faa7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\taiji\.android\build-cache\7d00396df99827ef35c399d900b181ee820a97ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\code\myCinema\android\app\build\intermediates\pre-dexed\debug\classes_03dddd80c2c7bdb9c1a67c74242d4a47f79f8276.jar" />
     </item>
 
 </items>

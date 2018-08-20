@@ -129,7 +129,7 @@ class ParsePlayPage extends React.PureComponent {
     }
     getJujiDetail(jujis,renderItem){
         let theGridView={};
-        jujis.map((a,i)=>{
+        return jujis.map((a,i)=>{
             console.log(a.index)
             return(
                 <View>
