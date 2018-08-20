@@ -132,7 +132,7 @@ class ParsePlayPage extends React.PureComponent {
         return jujis.map((a,i)=>{
             console.log(a.index)
             return(
-                <View>
+                <View style={{flex:1}}>
                 <Text>{i}</Text>
                 <GridView itemDimension={60}
             items={Array.from(a.index)}

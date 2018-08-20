@@ -56,7 +56,6 @@ class ParseUrl extends React.Component {
              })
          }
          
-         console.log(typeof(currentPageHtml.attr('href'))+'-=-'+currentPage+'-=-=-=-='+totalPage);
         this.setState({
             showList: datas
         })
