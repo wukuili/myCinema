@@ -1,554 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="835c24a3-9ae0-4f34-897f-30a376acc871" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/3.5.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/3.5.1/fileContent/fileContent.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/3.5.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/3.5.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/3.5.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/3.5.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/3.5.1/javaCompile/taskJars.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/3.5.1/javaCompile/taskJars.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/3.5.1/taskHistory/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/3.5.1/taskHistory/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/3.5.1/taskHistory/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/3.5.1/taskHistory/fileSnapshots.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/3.5.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/3.5.1/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gradle/3.5.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/3.5.1/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/generated/source/buildConfig/debug/com/mycinema/BuildConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/generated/source/buildConfig/debug/com/mycinema/BuildConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-af.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-af.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-am.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-am.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ar.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ar.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-az.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-az.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-b+sr+Latn.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-b+sr+Latn.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-be.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-be.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-bg.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-bg.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-bn.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-bn.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-bs.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-bs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ca.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ca.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-cs.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-cs.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-da.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-da.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-de.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-de.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-el.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-el.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-en-rAU.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-en-rAU.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-en-rGB.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-en-rGB.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-en-rIN.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-en-rIN.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-es-rUS.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-es-rUS.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-es.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-es.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-et.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-et.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-eu.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-eu.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-fa.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-fa.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-fi.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-fi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-fr-rCA.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-fr-rCA.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-fr.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-fr.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-gl.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-gl.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-gu.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-gu.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-h720dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-h720dp-v13.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hi.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hr.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hr.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hu.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hu.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hy.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hy.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-in.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-in.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-is.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-is.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-it.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-it.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-iw.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-iw.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ja.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ja.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ka.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ka.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-kk.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-kk.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-km.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-km.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-kn.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-kn.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ko.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ko.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ky.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ky.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-land.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-land.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-large-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-large-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ldltr-v21.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ldltr-v21.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-lo.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-lo.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-lt.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-lt.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-lv.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-lv.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-mk.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-mk.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ml.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ml.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-mn.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-mn.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-mr.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-mr.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ms.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ms.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-my.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-my.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-nb.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-nb.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ne.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ne.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-night-v8.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-night-v8.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-nl.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-nl.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pa.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pa.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pl.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pl.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-port.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-port.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pt-rBR.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pt-rBR.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pt-rPT.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pt-rPT.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pt.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pt.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ro.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ro.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ru.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ru.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-si.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-si.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sk.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sk.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sl.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sl.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sq.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sq.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sr.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sr.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sv.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sv.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sw.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sw.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sw600dp-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sw600dp-v13.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ta.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ta.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-te.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-te.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-th.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-th.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-tl.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-tl.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-tr.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-tr.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-uk.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-uk.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ur.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ur.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-uz.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-uz.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v11.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v11.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v12.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v12.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v13.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v14.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v14.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v16.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v16.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v17.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v18.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v18.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v21.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v21.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v22.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v22.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v23.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v23.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v24.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v24.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v25.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v25.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v26.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v26.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-vi.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-vi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-xlarge-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-xlarge-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-zh-rCN.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-zh-rCN.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-zh-rHK.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-zh-rHK.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-zh-rTW.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-zh-rTW.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-zu.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-zu.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/anim.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/anim.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/color-v11.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/color-v11.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/color-v23.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/color-v23.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/color.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/color.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-hdpi-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-hdpi-v17.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-mdpi-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-mdpi-v17.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xhdpi-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xhdpi-v17.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxhdpi-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxhdpi-v17.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxxhdpi-v17.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxxhdpi-v17.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-v21.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-v21.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-v23.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-v23.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-xxxhdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-xxxhdpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/layout-v16.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/layout-v16.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/layout-v21.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/layout-v21.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/layout-v26.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/layout-v26.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/layout.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/layout.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/mipmap-hdpi.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/mipmap-hdpi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/mipmap-mdpi.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/mipmap-mdpi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/mipmap-xhdpi.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/mipmap-xhdpi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/mipmap-xxhdpi.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/mipmap-xxhdpi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/mipmap-xxxhdpi.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/mipmap-xxxhdpi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/xml.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/xml.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs/values-bs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs/values-bs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu/values-eu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu/values-eu.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl/values-gl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl/values-gl.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my/values-my.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my/values-my.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/packageDebug/zip-cache/ZfULMY+cxNAcfSOfc9VbaWxAAhA=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_957e71fe1679fec1dd0d45bc9cf8dc23a37bd1f7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes_009e2c608ae55c039040440c99c89bd4bed467cf.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes_02faf025c6fe3fa416925a368ee4434179565ad9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes_0baf3ad05731545eb9700204ad325d9526242b53.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes_1092adc4f1442a3b5dc973f1921040a96be5c14f.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes_1968280f417d916aac1bdb66002e4c7974b1bb71.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes_22296d822af8268828dc97429c14279e5b200147.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes_46c49ef0799fd440395095bbc78bc6e00f96e78e.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes_492be7110eadca170d807c97ecbf91555b5f2d96.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes_527275feb0d513fbd80de21eebce669fc715befd.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes_5310fa2ca401aab1adf16a23ba699af069416b42.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes_7e401a5a70ccda6833c24ce31c3c53e121342545.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes_7e939873ebcdebc8beaf75d3edc552238d86736d.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes_921fb075d5af4d8483b7d4f8ca2ff89d8a1a475c.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes_b2905384a511a984abfbc70c46ee89c04b8ef5f1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes_b505c86f23f99c44dec5d97a9f29900362b6693d.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes_c7d956e96ef831fed32477de366c90bd1950f9e9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes_db66f666f39b97ae7d2922744e7a18354a171304.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes_e485bf4053801fdff5490a09020b045370545c9e.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes_ea191f4f00e1aa1774bf3aa0fb79550f6a88e32f.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes_eff2b15d77e81967096c0240f155a23f5f578f72.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_d55a84bf3949485f0b488c5c799f947a53dd6ab6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_f449caebc97f36fce05c5bbfcd986d36607fd585.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/debug_9f5441ecb6334020efcf110db80385b8854cd584.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_d498a89c6b3ee5f921f2c221066b38da5f024fa3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_1a796b944bafbd076eee45b4da1bec7eba505fb1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_d35eb018025623310e498317c16e48ff9a59297c.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_c229acc1308d485a09815da4338ac659bb53e284.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_93e2d37dce9ba9add470ca24ab7e685842964e52.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_2734528b76b567c31940e3c94215aa42790a2483.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_e58e4c97e263663dc2eae77879a3f2b19d09e3a6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_50ebe89a9dff36fdeadb5d3c698084f3b750fc82.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_dark.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_dark.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_light.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/tooltip_frame_light.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout-v26/abc_screen_toolbar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout-v26/abc_screen_toolbar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/dev_loading_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/dev_loading_view.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/fps_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/fps_view.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_action.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_action.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/redbox_item_frame.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/redbox_item_frame.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/redbox_item_title.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/redbox_item_title.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/redbox_view.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/redbox_view.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/tooltip.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/layout/tooltip.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-af/values-af.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-af/values-af.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-am/values-am.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-am/values-am.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ar/values-ar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ar/values-ar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-az/values-az.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-az/values-az.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-b+sr+Latn/values-b+sr+Latn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-b+sr+Latn/values-b+sr+Latn.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-be/values-be.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-be/values-be.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-bg/values-bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-bg/values-bg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-bn/values-bn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-bn/values-bn.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-bs/values-bs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-bs/values-bs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ca/values-ca.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ca/values-ca.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-cs/values-cs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-cs/values-cs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-da/values-da.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-da/values-da.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-de/values-de.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-de/values-de.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-el/values-el.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-el/values-el.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-en-rAU/values-en-rAU.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-en-rAU/values-en-rAU.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-en-rGB/values-en-rGB.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-en-rGB/values-en-rGB.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-en-rIN/values-en-rIN.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-en-rIN/values-en-rIN.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-es-rUS/values-es-rUS.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-es-rUS/values-es-rUS.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-es/values-es.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-es/values-es.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-et/values-et.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-et/values-et.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-eu/values-eu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-eu/values-eu.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-fa/values-fa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-fa/values-fa.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-fi/values-fi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-fi/values-fi.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-fr-rCA/values-fr-rCA.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-fr-rCA/values-fr-rCA.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-fr/values-fr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-fr/values-fr.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-gl/values-gl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-gl/values-gl.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-gu/values-gu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-gu/values-gu.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-h720dp-v13/values-h720dp-v13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-h720dp-v13/values-h720dp-v13.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-hdpi-v4/values-hdpi-v4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-hdpi-v4/values-hdpi-v4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-hi/values-hi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-hi/values-hi.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-hr/values-hr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-hr/values-hr.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-hu/values-hu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-hu/values-hu.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-hy/values-hy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-hy/values-hy.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-in/values-in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-in/values-in.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-is/values-is.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-is/values-is.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-it/values-it.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-it/values-it.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-iw/values-iw.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-iw/values-iw.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ja/values-ja.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ja/values-ja.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ka/values-ka.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ka/values-ka.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-kk/values-kk.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-kk/values-kk.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-km/values-km.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-km/values-km.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-kn/values-kn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-kn/values-kn.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ko/values-ko.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ko/values-ko.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ky/values-ky.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ky/values-ky.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-land/values-land.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-land/values-land.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-large-v4/values-large-v4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-large-v4/values-large-v4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ldltr-v21/values-ldltr-v21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ldltr-v21/values-ldltr-v21.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-lo/values-lo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-lo/values-lo.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-lt/values-lt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-lt/values-lt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-lv/values-lv.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-lv/values-lv.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-mk/values-mk.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-mk/values-mk.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ml/values-ml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ml/values-ml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-mn/values-mn.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-mn/values-mn.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-mr/values-mr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-mr/values-mr.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ms/values-ms.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ms/values-ms.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-my/values-my.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-my/values-my.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-nb/values-nb.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-nb/values-nb.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ne/values-ne.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ne/values-ne.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-night-v8/values-night-v8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-night-v8/values-night-v8.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-nl/values-nl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-nl/values-nl.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-pa/values-pa.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-pa/values-pa.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-pl/values-pl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-pl/values-pl.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-port/values-port.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-port/values-port.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-pt-rBR/values-pt-rBR.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-pt-rBR/values-pt-rBR.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-pt-rPT/values-pt-rPT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-pt-rPT/values-pt-rPT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-pt/values-pt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-pt/values-pt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ro/values-ro.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ro/values-ro.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ru/values-ru.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ru/values-ru.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-si/values-si.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-si/values-si.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-sk/values-sk.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-sk/values-sk.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-sl/values-sl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-sl/values-sl.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-sq/values-sq.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-sq/values-sq.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-sr/values-sr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-sr/values-sr.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-sv/values-sv.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-sv/values-sv.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-sw/values-sw.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-sw/values-sw.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-sw600dp-v13/values-sw600dp-v13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-sw600dp-v13/values-sw600dp-v13.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ta/values-ta.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ta/values-ta.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-te/values-te.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-te/values-te.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-th/values-th.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-th/values-th.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-tl/values-tl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-tl/values-tl.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-tr/values-tr.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-tr/values-tr.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-uk/values-uk.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-uk/values-uk.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ur/values-ur.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-ur/values-ur.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-uz/values-uz.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-uz/values-uz.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v11/values-v11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v11/values-v11.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v12/values-v12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v12/values-v12.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v13/values-v13.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v13/values-v13.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v14/values-v14.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v14/values-v14.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v16/values-v16.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v16/values-v16.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v17/values-v17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v17/values-v17.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v18/values-v18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v18/values-v18.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v22/values-v22.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v22/values-v22.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v23/values-v23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v23/values-v23.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v24/values-v24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v24/values-v24.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v25/values-v25.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v25/values-v25.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v26/values-v26.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v26/values-v26.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-vi/values-vi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-vi/values-vi.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-xlarge-v4/values-xlarge-v4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-xlarge-v4/values-xlarge-v4.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-zh-rCN/values-zh-rCN.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-zh-rCN/values-zh-rCN.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-zh-rHK/values-zh-rHK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-zh-rHK/values-zh-rHK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-zh-rTW/values-zh-rTW.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-zh-rTW/values-zh-rTW.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-zu/values-zu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-zu/values-zu.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values/values.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/xml/preferences.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/xml/preferences.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/outputs/apk/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/outputs/apk/app-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/build/intermediates/dex-cache/cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/build/intermediates/dex-cache/cache.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/ParsePlayPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/ParsePlayPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/component/ParseUrl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/ParseUrl.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    <list default="true" id="835c24a3-9ae0-4f34-897f-30a376acc871" name="Default Changelist" comment="1、修复多个gridview问题；&#10;2、开始处理分页">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/myCinema.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -604,18 +61,22 @@
     <session id="-250863497">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="479" />
+          <entry key="txt" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="479" />
+          <entry key="PLAIN_TEXT" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -647,8 +108,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/component/ParseUrl.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="50" column="10" lean-forward="true" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+            <state relative-caret-position="-25">
+              <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -692,7 +153,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/component/ParsePlayPage.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
+            <state relative-caret-position="364">
               <caret line="21" selection-start-line="21" selection-end-line="21" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
@@ -781,7 +242,7 @@
     <option name="height" value="951" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -792,60 +253,32 @@
               <item name="myCinema" type="b2602c69:ProjectViewProjectNode" />
               <item name="myCinema" type="462c0819:PsiDirectoryNode" />
             </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
             <path>
-              <item name="myCinema" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myCinema" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="myCinema" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
             <path>
-              <item name="myCinema" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myCinema" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="react-native-android-fullscreen-webview-video" type="462c0819:PsiDirectoryNode" />
+              <item name="myCinema" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="android" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="myCinema" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myCinema" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="react-native-android-fullscreen-webview-video" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myCinema" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myCinema" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-              <item name="react-native-android-fullscreen-webview-video" type="462c0819:PsiDirectoryNode" />
-              <item name="android" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myCinema" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myCinema" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myCinema" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myCinema" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="channel" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myCinema" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myCinema" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="component" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myCinema" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myCinema" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="constents" type="462c0819:PsiDirectoryNode" />
+              <item name="myCinema" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="android" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="build" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -860,6 +293,260 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\code_test\reactnative\myCinema\android\app" />
     </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/.gradle/3.5.1/fileContent/annotation-processors.bin</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/.gradle/3.5.1/javaCompile/classAnalysis.bin</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/.gradle/3.5.1/javaCompile/jarAnalysis.bin</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/.gradle/3.5.1/taskHistory/jvmClassSignatures.bin</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-af.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-am.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ar.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-az.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-b+sr+Latn.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-be.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-bg.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-bn.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-bs.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ca.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-cs.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-da.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-de.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-el.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-en-rAU.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-en-rGB.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-en-rIN.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-es-rUS.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-es.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-et.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-eu.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-fa.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-fi.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-fr-rCA.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-fr.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-gl.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-gu.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-h720dp-v13.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hi.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hr.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hu.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-hy.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-in.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-is.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-it.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-iw.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ja.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ka.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-kk.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-km.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-kn.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ko.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ky.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-land.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-large-v4.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ldltr-v21.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-lo.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-lt.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-lv.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-mk.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ml.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-mn.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-mr.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ms.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-my.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-nb.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ne.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-night-v8.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-nl.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pa.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pl.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-port.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pt-rBR.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pt-rPT.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-pt.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ro.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ru.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-si.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sk.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sl.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sq.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sr.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sv.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sw.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-sw600dp-v13.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ta.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-te.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-th.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-tl.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-tr.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-uk.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-ur.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-uz.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v11.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v12.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v13.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v14.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v16.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v17.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v18.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v21.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v22.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v23.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v24.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v25.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-v26.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-vi.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-xlarge-v4.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-zh-rCN.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-zh-rHK.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-zh-rTW.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values-zu.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/multi/values.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/color-v11.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-hdpi-v17.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-mdpi-v17.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xhdpi-v17.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxhdpi-v17.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-ldrtl-xxxhdpi-v17.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-v21.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/drawable-v23.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/layout-v16.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/layout-v21.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/layout-v26.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/mipmap-hdpi.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/mipmap-mdpi.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/mipmap-xhdpi.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/mipmap-xxhdpi.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/mipmap-xxxhdpi.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/blame/res/debug/single/xml.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/component/ParsePlayPage.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/component/ParseUrl.js</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.expo/packager-info.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/app/build/intermediates/pre-dexed/debug/classes_43f8275cb3f57bc6205bf174def740997718a02f.jar</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/build/android-profile/profile-2018-08-20-10-42-57-811.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/build/android-profile/profile-2018-08-20-10-43-28-461.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/build/android-profile/profile-2018-08-20-11-09-42-665.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/build/android-profile/profile-2018-08-20-11-10-33-001.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/build/android-profile/profile-2018-08-20-11-14-00-738.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/build/android-profile/profile-2018-08-20-11-25-24-025.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/build/android-profile/profile-2018-08-20-11-28-52-720.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/build/android-profile/profile-2018-08-20-11-32-29-954.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/build/android-profile/profile-2018-08-20-12-37-00-624.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/build/android-profile/profile-2018-08-20-12-46-28-227.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/build/android-profile/profile-2018-08-20-12-51-01-144.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/build/android-profile/profile-2018-08-20-12-55-02-787.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/build/android-profile/profile-2018-08-20-12-55-54-802.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/build/android-profile/profile-2018-08-20-12-58-00-425.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/build/android-profile/profile-2018-08-20-13-38-54-571.rawproto</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/android/build/android-profile/profile-2018-08-20-13-43-48-402.rawproto</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -898,24 +585,32 @@
       <updated>1534302708400</updated>
       <workItem from="1534302711278" duration="36659000" />
       <workItem from="1534403376014" duration="6123000" />
-      <workItem from="1534692674649" duration="4296000" />
+      <workItem from="1534692674649" duration="4623000" />
+      <workItem from="1534766144505" duration="822000" />
     </task>
+    <task id="LOCAL-00001" summary="1、修复多个gridview问题；&#10;2、开始处理分页">
+      <created>1534697288096</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534697288096</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47078000" />
+    <option name="totallyTimeSpent" value="48227000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32821077" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32821077" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -923,7 +618,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32869565" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32821077" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -954,6 +649,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1、修复多个gridview问题；&#10;2、开始处理分页" />
+    <option name="LAST_COMMIT_MESSAGE" value="1、修复多个gridview问题；&#10;2、开始处理分页" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/android/settings.gradle">
@@ -1019,9 +719,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="66" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1032,6 +729,13 @@
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/constents/Constonts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="13" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1055,6 +759,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/component/ParsePlayPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
@@ -1065,27 +779,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/component/ParsePlayPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/constents/Constonts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/component/ParseUrl.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="50" column="10" lean-forward="true" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+        <state relative-caret-position="-25">
+          <caret line="66" column="5" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
