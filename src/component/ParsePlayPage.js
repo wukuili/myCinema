@@ -11,7 +11,6 @@ class ParsePlayPage extends React.PureComponent {
     static navigationOptions = {
         title: '详情',
     };
-
     state = {
         jujis: [],
         playChannelSource: [],
@@ -133,7 +132,7 @@ class ParsePlayPage extends React.PureComponent {
     }
     getJujiDetail(jujis,renderItem){
         let theGridView={};
-       return jujis.map((a,i)=>{
+        return jujis.map((a,i)=>{
             console.log(a.index)
             return(
                 <View style={{flex:1}}>
